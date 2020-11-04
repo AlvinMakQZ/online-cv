@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Alvin Mak
-    tagline: Data Analyst
+    tagline: Data Analyst Trainee
     avatar: Passport_Photo_400x514.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -127,15 +127,16 @@ projects:
       - title: Identifying potential customers for loans
         tagline: "Identified potential loan customers for Thera Bank using classification techniques. Compared models built with Logistic Regression and KNN algorithm in order to select the best performing one."
         
-projects:
-    title: Undergraduate Program Projects
-    intro: >
-      Post Graduate Program
-    assignments:
-      - title: Product Recommendation Systems
-        tagline: "This pr
+      - title: Effects of Internal Flushing in Micro Electrical Discharge Machining
+        tagline: "Micro-EDM is used to drill rows of cooling holes into turbine components made of Titanium Ti-6Al4V Alloys and Inconel 625 Nickel Alloys. Due to their hard, single crystal properties, conventional machining of these holes is extremely challenging, if not impossible. Investigated the effects of internal flushing in Micro EDM on Material Removal Rate (MRR), Tool Wear Rate (TWR) and surface finish, important parameters in determining the success of machining procedures."
         
+      - title: Half Wing Compound Helicopter Design
+        tagline: "Helicopters are unique aircraft in that they utilize rotating wings to generate lift as opposed to fixed wings. In forward flight, a component of the free-stream adds to or subtracts from the rotational velocity at each section of the blade, causing dissymmetry of lift and rolling moment imbalance. Goal of the project was to design a half-wing compound helicopter to offset lateral lift imbalance and retreating blade stall. Total power was evaluated as a main parameter of effectiveness with considerations made to twist angle, stabilator settings, and constraints to flapping and control limits"
+        
+      - title: Variable Cycle Engine Technology Applied on Commercial Aircraft
+        tagline: "Goal of the project was to research and develop a high bypass ratio variable cycle engine aircraft applied for medium range commercial flight. Project included designing a special engine with a variable bypass ratio that changes its Thrust Specific Fuel Consumption (TFSC) and suitable fuselage, wings, and tail."
 
+        
 #skills:
 #    title: Skills &amp; Proficiency
 
