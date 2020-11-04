@@ -2,8 +2,8 @@
 
 # Site Settings
 title: My Resume
-url: 'https://alvinmakqz.github.io/online-cv/'
-baseurl: 'alvinmakqz.github.io/online-cv/' #change it according to your repository name
+url: 'https://alvinmakqz.github.io'
+baseurl: '/online-cv' #change it according to your repository name
 description: Alvin's Resume
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: ceramic # blue turquoise green berry orange ceramic
