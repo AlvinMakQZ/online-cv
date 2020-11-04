@@ -90,28 +90,28 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Component Repair Engineer
+      time: Sep 2017 - Sep 2020
+      company: Singapore Aero Engine Services Pte Ltd (SAESL)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Identified and developed component repair capabilities for new Rolls-Royce Civil Large Aero Engine Family: Trent 1000-TEN, Trent 7000 & Trent XWB
+          - SAESL Integrated Product Team (IPT) Lead for several source-control and critical book repairs
+          - Optimization of a plant simulation model using SimTalk to accurately predict engine and component repair parts induction
+          - Ex-Process owner for machining, metal spray and coating processes - responsible for daily technical reviews and process improvements
+          - Led National Aerospace and Defense Contractors Accreditation Program (NADCAP) and other special process audits to attain merit status
+          - Managed work instructions, maintenance packages in SAP based on revised technical documentsand evaluate core process repairability
+    - role: Project Engineer (Industrial Attachment)
+      time: May 2015- Aug 2015
+      company: ST Aerospace Services Co Pte Ltd (SASCO)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Key member of a project team tasked with the setup of a smart tooling database
+          - KAIZEN project to better facilitate and manage the toolings and equipment used in maintenance, repair and overhaul of the Boeing-777
+    - role: First Commando Battalion (National Service)
+      time: Feb 2011 - Dec 2012
+      company: Singapore Armed Forces (SAF)
+      details: |
+          - Certified paratrooper, boatman and demolition specialist
+          - NS Excellence Award, NS Good Service medal recipient
 projects:
     title: Projects
     intro: >
