@@ -129,32 +129,26 @@ projects:
         
       - title: Identifying potential customers for loans
         tagline: "Identified potential loan customers for Thera Bank using classification techniques. Compared models built with Logistic Regression and KNN algorithm in order to select the best performing one."
-        
-    intro: >
-      Undergraduate Program
-    assignments:
-      - title: Effects of Internal Flushing in Micro Electrical Discharge Machining
-        tagline: "Micro-EDM is used to drill rows of cooling holes into turbine components made of Titanium Ti-6Al4V Alloys and Inconel 625 Nick"
 
-skills:
-    title: Skills &amp; Proficiency
+#skills:
+#    title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+#    toolset:
+#      - name: Python & Django
+#        level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+#      - name: Javascript & jQuery
+#        level: 98%
 
-      - name: Angular
-        level: 98%
+#      - name: Angular
+#        level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+#      - name: HTML5 & CSS
+#        level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+#      - name: Ruby on Rails
+#        level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+#      - name: Sketch & Photoshop
+#        level: 60%
 
