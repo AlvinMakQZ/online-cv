@@ -81,7 +81,7 @@ experiences:
       details: |
           - The Technology in Finance Immersion Programme (TFIP) aims to help individuals gain experience in new technology areas, such as Artificial Intelligence, Cloud Computing, Cybersecurity, Data Analytics and Full Stack Development, within the financial services sector
           - Jointly developed by the Institute of Banking and Finance (IBF) and Workforce Singapore (WSG), in consultation with Infocomm Media Development Authority (IMDA) and Monetary Authority of Singapore (MAS); and with the support and validation of participating financial institutions
-          - Comprising of a structured training in Data Analytics with NUS-ISS and and an attachment with Goldman Sachs Services (Singapore) Pte. Ltd
+          - Comprises of a structured training in Data Analytics with NUS-ISS and and an attachment with Goldman Sachs Services (Singapore) Pte. Ltd
           
     - role: Component Repair Engineer
       time: Sep 2017 - Sep 2020
@@ -108,13 +108,10 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Post Graduate Program
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Product Recommendation Systems
+        tagline: "This project involved building recommendation systems for Amazon products. A popularity-based model and a collaborative Filtering model were used and evaluated to recommend top-10 products for a user."
 
       - title: DevStudio
         link: "#"
