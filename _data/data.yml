@@ -14,16 +14,11 @@ sidebar:
     # Sidebar links
     email: qzmak.alvin@gmail.com
     phone: +65 9730 5381
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    website: alvinmakqz.github.io/ #do not add http://
+    linkedin: qzmakalvin
+    github: AlvinMakQZ
+    telegram: imakalvin
+
 
     languages:
       - idiom: English
@@ -33,15 +28,15 @@ sidebar:
         level: Native
 
 
-    interests:
-      - item: Climbing
-        link:
+   # interests:
+   #  - item: Climbing
+   #     link:
 
-      - item: Snowboarding
-        link:
+  #    - item: Snowboarding
+ #       link:
 
-      - item: Cooking
-        link:
+ #     - item: Cooking
+ #       link:
 
 career-profile:
     title: Career Profile
