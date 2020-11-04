@@ -88,6 +88,7 @@ experiences:
           - Process Engineer for machining, metal spray and coating processes - responsible for daily technical reviews and process improvements
           - Led National Aerospace and Defense Contractors Accreditation Program (NADCAP) and other special process audits to attain merit status
           - Managed work instructions, maintenance packages in SAP based on revised technical documentsand evaluate core process repairability
+          - 2019 Staff Recognition Award Recipient
     - role: Project Engineer (Industrial Attachment)
       time: May 2015- Aug 2015
       company: ST Aerospace Services Co Pte Ltd (SASCO)
@@ -128,6 +129,12 @@ projects:
         
       - title: Identifying potential customers for loans
         tagline: "Identified potential loan customers for Thera Bank using classification techniques. Compared models built with Logistic Regression and KNN algorithm in order to select the best performing one."
+        
+    intro: >
+      Undergraduate Program
+    assignments:
+      - title: Effects of Internal Flushing in Micro Electrical Discharge Machining
+        tagline: "Micro-EDM is used to drill rows of cooling holes into turbine components made of Titanium Ti-6Al4V Alloys and Inconel 625 Nick"
 
 skills:
     title: Skills &amp; Proficiency
