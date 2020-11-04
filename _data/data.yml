@@ -99,7 +99,7 @@ experiences:
           - Certified paratrooper, boatman and demolition specialist
           - NS Excellence Award, NS Good Service medal recipient
 projects:
-    title: Projects
+    title: Post Graduate Program Projects
     intro: >
       Post Graduate Program
     assignments:
@@ -126,6 +126,15 @@ projects:
         
       - title: Identifying potential customers for loans
         tagline: "Identified potential loan customers for Thera Bank using classification techniques. Compared models built with Logistic Regression and KNN algorithm in order to select the best performing one."
+        
+projects:
+    title: Undergraduate Program Projects
+    intro: >
+      Post Graduate Program
+    assignments:
+      - title: Product Recommendation Systems
+        tagline: "This pr
+        
 
 #skills:
 #    title: Skills &amp; Proficiency
